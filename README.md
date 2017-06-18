@@ -1,8 +1,8 @@
 # school-code
 Repository of Codes and Resources for School
 
-** Resources
-** Github Emojii's I Like To Use
+### Resources
+#### Github Emojii's I Like To Use
 Category | Emoji | For
 -------- | ----- | ---
 General | :tada: | Initial Commits
